@@ -1,4 +1,4 @@
-# React Redux Core UI Admin Panel
+# React Redux Admin Panel
 
 This project was generated with [React Script](https://www.npmjs.com/package/react-scripts).
 
@@ -6,7 +6,7 @@ This project was generated with [React Script](https://www.npmjs.com/package/rea
 
 Clone the repository
 
-    git clone https://github.com/rmemon/react-redux-admin-panel
+    git clone https://github.com/srthapa927/react-redux-admin-panel.git
 
 Switch to the repo folder
 
